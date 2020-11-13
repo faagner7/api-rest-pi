@@ -1,11 +1,11 @@
 {
   "categories": [
     {
-      "id": "camisetas",
-      "title": "Camisetas"
+      "id": 1,
+      "title": "camisetas"
     },
     {
-      "id": "calcas",
+      "id": 2,
       "title": "Calças"
     }
   ],
@@ -14,25 +14,25 @@
       "id": 1,
       "title": "Camiseta Front-end",
       "price": 79.9,
-      "category_id": "camisetas"
+      "category_id": 1
     },
     {
       "id": 2,
       "title": "Camiseta Charpolin",
       "price": 69.9,
-      "category_id": "camisetas"
+      "category_id": 1
     },
     {
       "id": 3,
       "title": "Calça preta back-end",
       "price": 129.9,
-      "category_id": "calcas"
+      "category_id": 2
     },
     {
       "id": 4,
       "title": "Calça azul do React",
       "price": 109.9,
-      "category_id": "calcas"
+      "category_id": 2
     },
     {
       "id": 5,
@@ -43,31 +43,31 @@
     {
       "title": "Calça azul do React",
       "price": 109.9,
-      "category_id": "calcas",
+      "category_id": 2,
       "id": 6
     },
     {
       "title": "Calça azul do React",
       "price": 109.9,
-      "category_id": "calcas",
+      "category_id": 2,
       "id": 7
     },
     {
       "title": "Calça azul do React",
       "price": 109.9,
-      "category_id": "calcas",
+      "category_id": 2,
       "id": 8
     },
     {
       "title": "Calça azul do React",
       "price": 109.9,
-      "category_id": "calcas",
+      "category_id": 2,
       "id": 9
     },
     {
       "title": "Calça azul do React",
       "price": 109.9,
-      "category_id": "calcas",
+      "category_id": 2,
       "id": 10
     },
     {
@@ -75,20 +75,6 @@
     },
     {
       "id": 12
-    }
-  ],
-  "recommended": [
-    {
-      "id": 1,
-      "title": "Camiseta Front-end",
-      "price": 79.9,
-      "category_id": "camisetas"
-    },
-    {
-      "id": 4,
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": "calcas"
     }
   ]
 }
