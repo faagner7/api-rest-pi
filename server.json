@@ -7,6 +7,10 @@
     {
       "id": 2,
       "title": "Calças"
+    },
+    {
+      "id": 3,
+      "title": "meias"
     }
   ],
   "products": [
@@ -38,7 +42,7 @@
       "id": 5,
       "title": "Meias Node.JS",
       "price": 19.9,
-      "category_id": "meias"
+      "category_id": 3
     },
     {
       "title": "Calça azul do React",
@@ -71,10 +75,22 @@
       "id": 10
     },
     {
+      "title": "Calça azul do React",
+      "price": 109.9,
+      "category_id": 2,
       "id": 11
     },
     {
+      "title": "Calça azul do React",
+      "price": 109.9,
+      "category_id": 2,
       "id": 12
+    },
+    {
+      "title": "Calça azul do React",
+      "price": 109.9,
+      "category_id": 2,
+      "id": 13
     }
   ]
 }

@@ -16,6 +16,7 @@ router.post('/', async (req, res) => {
   const response = await axios
     .post(`${api}`, data)
     .then((res) => {
+      console.log(res.data);
       return res;
     })
     .catch((error) => {
