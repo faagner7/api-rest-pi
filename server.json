@@ -1,96 +1,40 @@
 {
-  "categories": [
+  "cities": [
     {
       "id": 1,
-      "title": "camisetas"
-    },
-    {
-      "id": 2,
-      "title": "Calças"
-    },
-    {
-      "id": 3,
-      "title": "meias"
+      "name": "Pelotas"
     }
   ],
-  "products": [
+  "clients": [
     {
       "id": 1,
-      "title": "Camiseta Front-end",
-      "price": 79.9,
-      "category_id": 1
+      "name": "Fagner Rodrigues",
+      "zip_code": "96075730",
+      "address": "R. Professora Ernestina Mursa",
+      "address_number": "46",
+      "birth": "08/03/1996",
+      "city": "Pelotas",
+      "state": "RS"
     },
     {
-      "id": 2,
-      "title": "Camiseta Charpolin",
-      "price": 69.9,
-      "category_id": 1
+      "name": "Fagner Rodrigues",
+      "address": "Rua professora Ernestina Mursa",
+      "city": "Pelotas",
+      "address_number": "46",
+      "birth": "08/02/1996",
+      "state": "RS",
+      "zip_code": "96075730",
+      "id": 2
     },
     {
-      "id": 3,
-      "title": "Calça preta back-end",
-      "price": 129.9,
-      "category_id": 2
-    },
-    {
-      "id": 4,
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": 2
-    },
-    {
-      "id": 5,
-      "title": "Meias Node.JS",
-      "price": 19.9,
-      "category_id": 3
-    },
-    {
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": 2,
-      "id": 6
-    },
-    {
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": 2,
-      "id": 7
-    },
-    {
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": 2,
-      "id": 8
-    },
-    {
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": 2,
-      "id": 9
-    },
-    {
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": 2,
-      "id": 10
-    },
-    {
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": 2,
-      "id": 11
-    },
-    {
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": 2,
-      "id": 12
-    },
-    {
-      "title": "Calça azul do React",
-      "price": 109.9,
-      "category_id": 2,
-      "id": 13
+      "name": "Joao da Silva",
+      "address": "Rua Silva Sá",
+      "city": "Canguçu",
+      "address_number": "21",
+      "birth": "02/04/1992",
+      "state": "RS",
+      "zip_code": "431810-21",
+      "id": 4
     }
   ]
 }
