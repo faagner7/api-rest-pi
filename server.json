@@ -11,6 +11,7 @@
       "name": "Fagner Rodrigues",
       "zip_code": "96075730",
       "address": "R. Professora Ernestina Mursa",
+      "phone": "(53)98444-5885",
       "address_number": "46",
       "birth": "08/03/1996",
       "city": "Pelotas",
@@ -19,6 +20,7 @@
     {
       "name": "Fagner Rodrigues",
       "address": "Rua professora Ernestina Mursa",
+      "phone": "(53)98444-5885",
       "city": "Pelotas",
       "address_number": "46",
       "birth": "08/02/1996",
@@ -29,6 +31,7 @@
     {
       "name": "Joao da Silva",
       "address": "Rua Silva Sá",
+      "phone": "(53)98444-5885",
       "city": "Canguçu",
       "address_number": "21",
       "birth": "02/04/1992",
@@ -39,6 +42,7 @@
     {
       "name": "Joao da Silva",
       "address": "Rua Silva Sá",
+      "phone": "(53)98444-5885",
       "city": "Canguçu",
       "address_number": "21",
       "birth": "02/04/1992",
