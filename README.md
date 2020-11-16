@@ -1,4 +1,4 @@
-# Depois de clonar o projeto é necessário instalar as dependências.
+## Depois de clonar o projeto é necessário instalar as dependências.
 
 ```bash
 yarn
@@ -8,7 +8,7 @@ npm install
 
 ## É necessário ter o json-server instalado globalmente.
 
-# Para instalar o json-server
+## Para instalar o json-server
 
 ```bash
 npm install -g json-server
