@@ -8,7 +8,7 @@ const router = express.Router();
 
 router.get('/', async (err, res) => {
   const response = await axios.get(`${api}/clients`);
-  res.send({ data: response.data });
+  res.send({ data: response.data, messsage: 'SUCESSO!' });
 });
 
 router.get('/:id', async (req, res) => {

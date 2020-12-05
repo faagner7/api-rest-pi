@@ -1,10 +1,4 @@
 {
-  "cities": [
-    {
-      "id": 1,
-      "name": "Pelotas"
-    }
-  ],
   "clients": [
     {
       "id": 1,
