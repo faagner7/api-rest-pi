@@ -6,7 +6,7 @@ const router = express.Router();
 
 // declarando a url do server json que está simulando um banco de dados;
 
-router.get('/', async (err, res) => {
+router.get('/', async (req, res) => {
   const response = await axios.get(`${api}/clients`);
   res.send({ data: response.data, messsage: 'SUCESSO!' });
 });

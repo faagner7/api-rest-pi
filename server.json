@@ -12,17 +12,6 @@
       "state": "RS"
     },
     {
-      "name": "Fagner Rodrigues",
-      "address": "Rua professora Ernestina Mursa",
-      "phone": "(53)98444-5885",
-      "city": "Pelotas",
-      "address_number": "46",
-      "birth": "08/02/1996",
-      "state": "RS",
-      "zip_code": "96075730",
-      "id": 2
-    },
-    {
       "name": "Joao da Silva",
       "address": "Rua Silva Sá",
       "phone": "(53)98444-5885",
@@ -43,6 +32,17 @@
       "state": "RS",
       "zip_code": "431810-21",
       "id": 5
+    },
+    {
+      "name": "Teste do Teste",
+      "address": "Rua Treze",
+      "city": "Cariacica",
+      "address_number": "46",
+      "birth": "08/03/1996",
+      "state": "ES",
+      "zip_code": "29157-856",
+      "phone": "53984445885",
+      "id": 6
     }
   ]
 }
